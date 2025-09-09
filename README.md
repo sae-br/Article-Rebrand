@@ -22,6 +22,7 @@ I've populated the input folder with fake articles that contain common elements 
 
 ## Project Structure
 
+`
 Article-Rebrand/
 ├── input_docs/         # Drop your original Word files here
 ├── output_docs/        # Reformatted documents are saved here
@@ -34,7 +35,7 @@ Article-Rebrand/
 ├── requirements.txt    # Python package dependencies
 ├── .gitignore          # Keeps virtual env & build junk out of Git
 └── venv/               # Local virtual environment (not tracked by Git)
-
+`
 ---
 
 ## Setup
