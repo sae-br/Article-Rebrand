@@ -32,9 +32,8 @@ Article-Rebrand/
 ├── writer.py           # Writes structured content into new documents
 ├── convert.py          # Convert a single file
 ├── convert_batch.py    # Convert all files in input_docs/
-├── requirements.txt    # Python package dependencies
-├── .gitignore          # Keeps virtual env & build junk out of Git
-└── venv/               # Local virtual environment (not tracked by Git)
+└── requirements.txt
+
 ```
 ---
 
