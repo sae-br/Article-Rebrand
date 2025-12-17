@@ -41,7 +41,7 @@ Article-Rebrand/
 
 ```bash
 # Clone this repo and navigate to the folder
-git clone https://github.com/your-username/article-rebrand.git
+git clone https://github.com/sae-br/article-rebrand.git
 cd article-rebrand
 
 # (Optional) Create virtual environment
